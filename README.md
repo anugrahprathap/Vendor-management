@@ -45,6 +45,7 @@
    ```
 4. Apply any necessary database migrations:
    ```bash
+   cd vendormanage
    python manage.py migrate
    ```
 5. Start the Django development server:
